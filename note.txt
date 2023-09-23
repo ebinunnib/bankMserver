@@ -1,0 +1,13 @@
+(env)=environmental varriables file
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+_________________________
+-varriables that contain application configaration needs in run time
+-Module -Process -module that provide .env service
+-it can convert static working of app in to dynamic 
+     (loca host running to server running)
+
+     dotenv -library used to import and configare env file
+     --> npm i dotenv
+
+     modal
